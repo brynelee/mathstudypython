@@ -6,6 +6,19 @@ __pycache__/
 # C extensions
 *.so
 
+# .DS_Store
+.DS_Store
+
+# vscode
+.vscode/
+
+# output excel files ignored
+*_output.xls
+*_output.xlsx
+
+# idea
+.idea/
+
 # Distribution / packaging
 .Python
 build/
